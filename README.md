@@ -2,11 +2,11 @@
 
 <br/>
 
-cs student at vit vellore. i like building things that solve actual problems - or at least interesting ones.
+it student at vit vellore. i like building things that solve actual problems - or at least interesting ones.
 
 mostly fullstack. nextjs, typescript, python. i gravitate toward projects with some logic to figure out - custom state machines, automation, data pipelines. i'm interested in blockchain and crypto but still learning the space; what i've built there is more experiments than expertise.
 
-currently grinding the striver a2z dsa sheet in java and working on some prediction market tooling on the side.
+currently working on some prediction market tooling on the side.
 
 ---
 
