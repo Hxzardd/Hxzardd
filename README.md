@@ -8,7 +8,7 @@ mostly fullstack. nextjs, typescript, python. i gravitate toward projects with s
 
 currently working on some prediction market tooling on the side.
 
----
+<!-- --- -->
 
 ```
 py · ts · js · java · c
