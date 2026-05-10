@@ -31,12 +31,12 @@ next.js / tailwind / mongodb / postgres
 
 ---
 
-<!-- <div align="center">
+<div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hxzardd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&icon_color=6E56CF&text_color=888888&count_private=true&rank_icon=github&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxzardd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&text_color=888888&langs_count=5&hide_title=true" />
+<!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hxzardd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&icon_color=6E56CF&text_color=888888&count_private=true&rank_icon=github&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxzardd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&text_color=888888&langs_count=5&hide_title=true" /> -->
 
-<br/> -->
+<!-- <br/> -->
 
 [![streak](https://streak-stats.demolab.com?user=Hxzardd&theme=tokyonight&hide_border=true&background=0D1117&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF&sideLabels=888888&dates=555555)](https://git.io/streak-stats)
 
