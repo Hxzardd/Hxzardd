@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117,6E56CF&height=200&section=header&text=hey.%20i%27m%20darsheel.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=cs+student+%40+vit+%7C+building+things&descSize=16&descAlignY=62&descColor=888888)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0D1117,6E56CF&height=200&section=header&text=hey.%20i%27m%20darsheel.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=cs/it+student+@+vit+%7C+building+things&descSize=16&descAlignY=62&descColor=888888)
 
-<br/>
+<!-- <br/> -->
 
-it student at vit vellore. i like building things that solve actual problems - or at least interesting ones.
+cs/it student at vit vellore. i like building things that solve actual problems - or at least interesting ones.
 
 mostly fullstack. nextjs, typescript, python. i gravitate toward projects with some logic to figure out - custom state machines, automation, data pipelines. i'm interested in blockchain and crypto but still learning the space; what i've built there is more experiments than expertise.
 
