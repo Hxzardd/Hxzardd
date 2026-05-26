@@ -19,7 +19,7 @@ next.js / tailwind / mongodb / postgres
 
 **things i've built**
 
-[sentinel](https://github.com/Hxzardd/sentinel-web-tech) - fullstack finance dashboard with a terminal ui. tracks expenses, gives ai-powered insights using your own api key (gemini or gpt), smart alerts based on actual spending patterns. built for a web tech course, ended up going pretty deep.
+[sentinel](https://github.com/Hxzardd/sentinel-web-tech) - fullstack finance dashboard with a terminal ui. tracks expenses, gives ai-powered insights using your own api key (gemini or gpt), smart alerts based on actual spending patterns. built for a web tech course, ended up going pretty deep. [live ↗](https://sentinel-web-tech.vercel.app/)
 
 [freeform-board](https://freeform.hxzard.com) - infinite canvas with text, image and list pins. wrote a custom undo/redo history stack instead of using a library. handles pan and drag separately so they don't conflict. [live ↗](https://freeform.hxzard.com)
 
