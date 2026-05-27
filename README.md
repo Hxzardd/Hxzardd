@@ -21,7 +21,7 @@ next.js / tailwind / mongodb / postgres
 
 [sentinel](https://github.com/Hxzardd/sentinel-web-tech) - fullstack finance dashboard with a terminal ui. tracks expenses, gives ai-powered insights using your own api key (gemini or gpt), smart alerts based on actual spending patterns. built for a web tech course, ended up going pretty deep. [live ↗](https://sentinel-web-tech.vercel.app/)
 
-[freeform-board](https://freeform.hxzard.com) - infinite canvas with text, image and list pins. wrote a custom undo/redo history stack instead of using a library. handles pan and drag separately so they don't conflict. [live ↗](https://freeform.hxzard.com)
+[freeform-board](https://github.com/Hxzardd/freeform-board) - infinite canvas with text, image and list pins. wrote a custom undo/redo history stack instead of using a library. handles pan and drag separately so they don't conflict. [live ↗](https://freeform.hxzard.com)
 
 [unity-volatility-hl](https://github.com/Hxzardd/unity-volatility-hl) - scraped volatility signals from discord, backtested across 1873 samples against bybit candle data, found the signals are contrarian. built a live execution bot on hyperliquid around that finding. more of a learning project in quant + automation than anything else.
 
